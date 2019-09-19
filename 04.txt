@@ -1,0 +1,1017 @@
+[1518-06-12 2357] Guard #2633 begins shift
+[1518-04-11 0009] falls asleep
+[1518-04-10 0056] falls asleep
+[1518-10-22 0036] wakes up
+[1518-11-08 0057] wakes up
+[1518-03-28 0000] Guard #2423 begins shift
+[1518-11-02 0002] Guard #727 begins shift
+[1518-04-14 2356] Guard #2777 begins shift
+[1518-09-02 0045] falls asleep
+[1518-07-14 0000] Guard #73 begins shift
+[1518-11-09 0003] Guard #877 begins shift
+[1518-10-16 0046] wakes up
+[1518-08-26 0042] falls asleep
+[1518-05-23 2354] Guard #2503 begins shift
+[1518-07-22 0046] wakes up
+[1518-05-13 0057] wakes up
+[1518-10-02 0042] falls asleep
+[1518-11-03 0057] wakes up
+[1518-06-03 0028] falls asleep
+[1518-08-31 2349] Guard #2633 begins shift
+[1518-04-17 0000] Guard #73 begins shift
+[1518-06-19 0057] wakes up
+[1518-10-07 0012] falls asleep
+[1518-05-30 0000] Guard #2393 begins shift
+[1518-06-23 2359] Guard #461 begins shift
+[1518-08-28 0052] falls asleep
+[1518-11-12 2347] Guard #2777 begins shift
+[1518-09-17 2357] Guard #1217 begins shift
+[1518-03-10 0005] falls asleep
+[1518-06-30 0059] wakes up
+[1518-08-14 0005] falls asleep
+[1518-10-10 0041] falls asleep
+[1518-04-21 0008] falls asleep
+[1518-11-11 2356] Guard #2503 begins shift
+[1518-10-09 0003] Guard #1871 begins shift
+[1518-08-27 0015] falls asleep
+[1518-06-02 0001] falls asleep
+[1518-07-08 2359] Guard #691 begins shift
+[1518-11-05 0053] wakes up
+[1518-04-05 0043] wakes up
+[1518-09-29 0003] Guard #2593 begins shift
+[1518-06-11 0034] falls asleep
+[1518-07-31 2356] Guard #2777 begins shift
+[1518-07-02 0042] wakes up
+[1518-06-17 2359] Guard #2633 begins shift
+[1518-06-25 0029] falls asleep
+[1518-04-07 0001] Guard #1871 begins shift
+[1518-10-25 0031] falls asleep
+[1518-06-06 0053] wakes up
+[1518-07-16 0029] falls asleep
+[1518-08-05 0059] wakes up
+[1518-09-11 0054] wakes up
+[1518-07-28 0018] falls asleep
+[1518-04-04 0058] wakes up
+[1518-09-25 0056] wakes up
+[1518-04-05 2358] Guard #1933 begins shift
+[1518-05-14 0035] falls asleep
+[1518-08-11 0045] falls asleep
+[1518-05-17 0043] wakes up
+[1518-04-10 0043] falls asleep
+[1518-05-20 0041] falls asleep
+[1518-08-08 0057] wakes up
+[1518-09-03 0030] falls asleep
+[1518-11-20 0004] falls asleep
+[1518-10-09 0037] wakes up
+[1518-09-23 0046] wakes up
+[1518-03-20 0050] falls asleep
+[1518-04-18 0052] wakes up
+[1518-11-07 0032] falls asleep
+[1518-05-14 0001] Guard #3491 begins shift
+[1518-07-29 0002] Guard #2251 begins shift
+[1518-05-02 0000] Guard #1987 begins shift
+[1518-11-23 0056] wakes up
+[1518-06-21 0050] falls asleep
+[1518-08-06 0001] falls asleep
+[1518-06-02 0027] wakes up
+[1518-04-08 0006] falls asleep
+[1518-10-10 0035] wakes up
+[1518-06-21 0054] wakes up
+[1518-03-29 0037] wakes up
+[1518-08-15 0020] falls asleep
+[1518-03-27 0004] Guard #73 begins shift
+[1518-05-10 0054] falls asleep
+[1518-08-26 0036] falls asleep
+[1518-10-26 0009] falls asleep
+[1518-11-12 0039] falls asleep
+[1518-10-03 0052] wakes up
+[1518-10-08 0012] wakes up
+[1518-06-01 0041] falls asleep
+[1518-04-03 0057] falls asleep
+[1518-05-19 2357] Guard #2593 begins shift
+[1518-08-26 0051] falls asleep
+[1518-11-09 0057] wakes up
+[1518-03-17 0056] wakes up
+[1518-05-31 2359] Guard #1871 begins shift
+[1518-09-08 0030] wakes up
+[1518-10-24 0048] wakes up
+[1518-06-16 0000] Guard #1033 begins shift
+[1518-04-20 0001] falls asleep
+[1518-11-15 0049] falls asleep
+[1518-07-15 0045] wakes up
+[1518-10-14 0030] falls asleep
+[1518-09-01 0040] wakes up
+[1518-03-24 0049] wakes up
+[1518-04-10 0044] wakes up
+[1518-07-04 0055] wakes up
+[1518-05-05 0045] wakes up
+[1518-07-06 0000] Guard #2503 begins shift
+[1518-03-10 0034] wakes up
+[1518-08-15 0045] wakes up
+[1518-09-02 0042] wakes up
+[1518-03-30 0044] falls asleep
+[1518-09-03 0050] wakes up
+[1518-06-05 0017] wakes up
+[1518-08-24 0017] wakes up
+[1518-08-27 0043] wakes up
+[1518-09-20 0000] falls asleep
+[1518-04-04 2358] Guard #2027 begins shift
+[1518-05-01 0040] wakes up
+[1518-10-26 0001] Guard #2029 begins shift
+[1518-08-04 0059] wakes up
+[1518-05-15 0056] wakes up
+[1518-03-18 0019] falls asleep
+[1518-05-08 0050] falls asleep
+[1518-05-09 0058] wakes up
+[1518-03-28 0056] wakes up
+[1518-05-28 0039] wakes up
+[1518-09-15 0036] wakes up
+[1518-04-25 0005] falls asleep
+[1518-11-03 0038] falls asleep
+[1518-10-05 0033] wakes up
+[1518-09-06 0057] wakes up
+[1518-08-25 0001] Guard #2089 begins shift
+[1518-11-17 0040] wakes up
+[1518-05-09 0055] falls asleep
+[1518-03-21 0004] Guard #2393 begins shift
+[1518-05-12 0009] falls asleep
+[1518-08-22 0003] Guard #2027 begins shift
+[1518-03-21 2356] Guard #1303 begins shift
+[1518-05-28 0004] Guard #691 begins shift
+[1518-10-02 2358] Guard #2633 begins shift
+[1518-10-30 2347] Guard #2777 begins shift
+[1518-05-05 0018] falls asleep
+[1518-11-13 0002] falls asleep
+[1518-06-18 0023] falls asleep
+[1518-10-26 0034] falls asleep
+[1518-05-10 0045] wakes up
+[1518-06-21 0046] wakes up
+[1518-08-25 0006] falls asleep
+[1518-11-06 2359] Guard #2089 begins shift
+[1518-10-24 0042] falls asleep
+[1518-06-17 0004] Guard #2633 begins shift
+[1518-08-23 0054] wakes up
+[1518-04-04 0000] Guard #1987 begins shift
+[1518-09-12 0033] wakes up
+[1518-04-24 0050] wakes up
+[1518-09-26 2354] Guard #2393 begins shift
+[1518-07-24 0056] wakes up
+[1518-03-27 0056] wakes up
+[1518-07-16 0000] Guard #3491 begins shift
+[1518-06-17 0027] falls asleep
+[1518-05-04 0000] Guard #1871 begins shift
+[1518-07-15 0014] falls asleep
+[1518-08-06 0058] wakes up
+[1518-05-16 0036] wakes up
+[1518-05-17 0004] Guard #2029 begins shift
+[1518-11-20 2350] Guard #1871 begins shift
+[1518-04-22 0052] falls asleep
+[1518-03-12 0004] Guard #1987 begins shift
+[1518-07-18 0037] wakes up
+[1518-04-15 0050] falls asleep
+[1518-10-03 0028] falls asleep
+[1518-09-01 0016] wakes up
+[1518-07-22 0053] falls asleep
+[1518-04-23 0047] falls asleep
+[1518-07-26 0042] falls asleep
+[1518-09-07 0004] Guard #3491 begins shift
+[1518-03-11 0010] falls asleep
+[1518-07-06 0008] falls asleep
+[1518-06-10 0045] falls asleep
+[1518-09-09 0031] falls asleep
+[1518-06-06 0051] falls asleep
+[1518-08-04 0012] falls asleep
+[1518-05-04 0037] falls asleep
+[1518-09-25 0043] wakes up
+[1518-11-18 0003] Guard #1217 begins shift
+[1518-03-17 0031] wakes up
+[1518-06-15 0050] falls asleep
+[1518-07-17 0027] falls asleep
+[1518-10-09 0056] wakes up
+[1518-04-03 0036] falls asleep
+[1518-07-03 0004] Guard #2029 begins shift
+[1518-06-26 2358] Guard #2089 begins shift
+[1518-03-17 0021] falls asleep
+[1518-11-07 0038] wakes up
+[1518-03-18 0000] falls asleep
+[1518-04-24 2353] Guard #1217 begins shift
+[1518-08-09 0039] wakes up
+[1518-08-02 0005] falls asleep
+[1518-05-15 0039] falls asleep
+[1518-09-24 2357] Guard #2393 begins shift
+[1518-07-09 0059] wakes up
+[1518-05-22 0028] wakes up
+[1518-09-17 0000] falls asleep
+[1518-11-06 0058] wakes up
+[1518-08-05 0043] wakes up
+[1518-04-07 0037] wakes up
+[1518-08-29 2356] Guard #2777 begins shift
+[1518-10-17 0018] falls asleep
+[1518-05-29 0041] falls asleep
+[1518-03-30 0053] wakes up
+[1518-06-27 0058] wakes up
+[1518-03-18 0022] wakes up
+[1518-11-13 0038] falls asleep
+[1518-04-12 0054] wakes up
+[1518-07-09 2352] Guard #1987 begins shift
+[1518-11-03 0048] falls asleep
+[1518-09-01 0026] falls asleep
+[1518-08-30 0046] wakes up
+[1518-04-29 0007] falls asleep
+[1518-05-16 0058] wakes up
+[1518-05-23 0030] falls asleep
+[1518-07-30 2357] Guard #2027 begins shift
+[1518-08-21 0004] falls asleep
+[1518-09-12 0042] falls asleep
+[1518-04-09 0046] wakes up
+[1518-07-04 0011] falls asleep
+[1518-11-08 0018] falls asleep
+[1518-04-04 0034] falls asleep
+[1518-06-11 0001] Guard #877 begins shift
+[1518-03-16 0023] falls asleep
+[1518-05-25 0057] wakes up
+[1518-11-06 0026] falls asleep
+[1518-09-17 0022] falls asleep
+[1518-10-09 2359] Guard #727 begins shift
+[1518-10-27 0000] Guard #2633 begins shift
+[1518-11-21 0038] wakes up
+[1518-03-27 0027] falls asleep
+[1518-03-31 0000] Guard #2089 begins shift
+[1518-05-18 0002] Guard #73 begins shift
+[1518-06-26 0059] wakes up
+[1518-04-11 0041] wakes up
+[1518-09-11 0013] falls asleep
+[1518-10-26 0046] wakes up
+[1518-10-16 0014] falls asleep
+[1518-09-21 2356] Guard #1933 begins shift
+[1518-04-10 0002] Guard #73 begins shift
+[1518-05-20 0059] wakes up
+[1518-05-08 2357] Guard #73 begins shift
+[1518-11-03 0043] wakes up
+[1518-05-18 0009] falls asleep
+[1518-07-29 0039] wakes up
+[1518-03-14 0013] falls asleep
+[1518-09-11 0000] Guard #2393 begins shift
+[1518-07-11 0025] falls asleep
+[1518-09-25 0051] falls asleep
+[1518-07-08 0003] Guard #2777 begins shift
+[1518-08-08 0047] falls asleep
+[1518-07-16 0048] wakes up
+[1518-08-11 0058] wakes up
+[1518-05-18 0058] wakes up
+[1518-03-29 0042] falls asleep
+[1518-05-07 0059] wakes up
+[1518-04-27 0030] falls asleep
+[1518-09-08 0000] Guard #2089 begins shift
+[1518-08-27 0057] falls asleep
+[1518-09-27 0003] falls asleep
+[1518-04-15 0057] wakes up
+[1518-10-06 0049] falls asleep
+[1518-06-11 0058] wakes up
+[1518-08-10 0022] wakes up
+[1518-07-19 2358] Guard #2423 begins shift
+[1518-08-17 2358] Guard #2393 begins shift
+[1518-07-09 0053] falls asleep
+[1518-06-14 0030] falls asleep
+[1518-05-16 0048] wakes up
+[1518-03-19 0048] falls asleep
+[1518-07-19 0039] wakes up
+[1518-05-27 0033] falls asleep
+[1518-06-26 0040] falls asleep
+[1518-05-02 0016] falls asleep
+[1518-06-30 0013] falls asleep
+[1518-09-07 0054] wakes up
+[1518-06-13 0037] wakes up
+[1518-05-07 0051] wakes up
+[1518-04-22 0056] wakes up
+[1518-07-13 0000] falls asleep
+[1518-10-31 0038] wakes up
+[1518-05-03 0045] falls asleep
+[1518-03-15 0019] falls asleep
+[1518-06-23 0047] wakes up
+[1518-07-31 0016] falls asleep
+[1518-03-12 0055] wakes up
+[1518-09-02 2356] Guard #691 begins shift
+[1518-11-05 0051] falls asleep
+[1518-10-23 0028] falls asleep
+[1518-03-21 0009] falls asleep
+[1518-08-14 0038] falls asleep
+[1518-09-14 0038] falls asleep
+[1518-10-18 2359] Guard #2593 begins shift
+[1518-10-30 0050] falls asleep
+[1518-07-01 0038] wakes up
+[1518-07-12 2353] Guard #2029 begins shift
+[1518-10-17 0055] wakes up
+[1518-07-28 0039] wakes up
+[1518-07-27 0029] falls asleep
+[1518-07-05 0048] wakes up
+[1518-10-30 0055] wakes up
+[1518-07-13 0049] wakes up
+[1518-09-28 0041] falls asleep
+[1518-03-10 0056] falls asleep
+[1518-09-20 0047] wakes up
+[1518-11-22 2357] Guard #2777 begins shift
+[1518-04-13 0054] wakes up
+[1518-03-25 0020] falls asleep
+[1518-05-03 0049] wakes up
+[1518-04-05 0007] falls asleep
+[1518-06-01 2350] Guard #1217 begins shift
+[1518-10-06 0052] wakes up
+[1518-08-20 0044] wakes up
+[1518-06-07 0010] falls asleep
+[1518-08-14 0012] wakes up
+[1518-05-06 0010] wakes up
+[1518-10-22 0040] wakes up
+[1518-04-02 0027] falls asleep
+[1518-06-11 2357] Guard #2089 begins shift
+[1518-10-22 0044] falls asleep
+[1518-03-23 0010] falls asleep
+[1518-10-06 0004] Guard #2503 begins shift
+[1518-04-18 0032] wakes up
+[1518-08-11 0055] falls asleep
+[1518-09-05 0040] wakes up
+[1518-04-04 0053] wakes up
+[1518-04-27 0034] wakes up
+[1518-03-13 0035] falls asleep
+[1518-08-24 0038] wakes up
+[1518-09-16 0042] wakes up
+[1518-07-23 0017] wakes up
+[1518-06-30 2358] Guard #1933 begins shift
+[1518-07-28 0042] falls asleep
+[1518-06-28 2356] Guard #1987 begins shift
+[1518-04-27 0041] falls asleep
+[1518-09-05 2356] Guard #2393 begins shift
+[1518-05-21 0032] falls asleep
+[1518-09-15 0000] Guard #2089 begins shift
+[1518-04-25 0045] wakes up
+[1518-08-13 2354] Guard #1871 begins shift
+[1518-10-03 0033] wakes up
+[1518-09-21 0048] falls asleep
+[1518-03-25 0011] wakes up
+[1518-07-17 0046] falls asleep
+[1518-05-08 0054] wakes up
+[1518-09-07 0040] wakes up
+[1518-06-01 0033] falls asleep
+[1518-10-02 0049] wakes up
+[1518-04-09 0032] falls asleep
+[1518-05-21 2351] Guard #2393 begins shift
+[1518-11-21 0046] wakes up
+[1518-03-20 0000] Guard #3491 begins shift
+[1518-10-01 0057] wakes up
+[1518-05-31 0029] wakes up
+[1518-03-15 0004] Guard #727 begins shift
+[1518-09-08 0052] falls asleep
+[1518-03-28 0007] falls asleep
+[1518-03-23 0053] wakes up
+[1518-08-07 0034] wakes up
+[1518-10-26 0031] wakes up
+[1518-10-05 0049] falls asleep
+[1518-10-16 0051] falls asleep
+[1518-05-31 0025] falls asleep
+[1518-06-13 0034] falls asleep
+[1518-09-22 0050] falls asleep
+[1518-08-16 0001] falls asleep
+[1518-06-20 2357] Guard #2593 begins shift
+[1518-11-13 0050] wakes up
+[1518-11-18 0039] wakes up
+[1518-04-02 0007] falls asleep
+[1518-11-13 0014] wakes up
+[1518-06-12 0036] wakes up
+[1518-05-24 0024] falls asleep
+[1518-07-05 0056] falls asleep
+[1518-05-19 0000] Guard #2593 begins shift
+[1518-04-29 2349] Guard #73 begins shift
+[1518-08-13 0001] Guard #2029 begins shift
+[1518-05-07 0057] falls asleep
+[1518-07-30 0033] falls asleep
+[1518-05-03 0004] Guard #2777 begins shift
+[1518-07-21 2348] Guard #2089 begins shift
+[1518-10-18 0019] falls asleep
+[1518-10-22 0003] Guard #2423 begins shift
+[1518-08-11 2350] Guard #2027 begins shift
+[1518-09-15 0045] falls asleep
+[1518-06-12 0027] falls asleep
+[1518-09-09 0057] wakes up
+[1518-10-27 2359] Guard #2027 begins shift
+[1518-03-29 0053] wakes up
+[1518-08-30 2356] Guard #229 begins shift
+[1518-10-28 0044] wakes up
+[1518-10-19 0025] falls asleep
+[1518-07-26 0056] wakes up
+[1518-04-05 0015] falls asleep
+[1518-07-26 0038] wakes up
+[1518-05-14 0056] wakes up
+[1518-04-04 0057] falls asleep
+[1518-05-12 0053] falls asleep
+[1518-09-02 0000] Guard #2029 begins shift
+[1518-05-14 0013] wakes up
+[1518-05-23 0000] Guard #2593 begins shift
+[1518-07-14 0052] wakes up
+[1518-10-27 0012] falls asleep
+[1518-03-23 0004] Guard #2593 begins shift
+[1518-09-17 0008] wakes up
+[1518-04-08 0003] Guard #1933 begins shift
+[1518-03-30 0047] wakes up
+[1518-04-22 0001] Guard #229 begins shift
+[1518-07-21 0025] falls asleep
+[1518-07-29 2356] Guard #2027 begins shift
+[1518-08-03 0053] wakes up
+[1518-11-21 0000] falls asleep
+[1518-07-12 0004] falls asleep
+[1518-05-06 0006] falls asleep
+[1518-10-02 0002] Guard #2027 begins shift
+[1518-05-10 0031] falls asleep
+[1518-09-05 0015] falls asleep
+[1518-05-24 0028] wakes up
+[1518-03-28 2346] Guard #2089 begins shift
+[1518-04-06 0029] wakes up
+[1518-09-07 0045] falls asleep
+[1518-09-24 0059] wakes up
+[1518-03-24 0035] falls asleep
+[1518-06-22 0028] falls asleep
+[1518-07-18 0000] Guard #2423 begins shift
+[1518-10-12 0002] falls asleep
+[1518-07-18 0009] falls asleep
+[1518-03-14 0055] falls asleep
+[1518-09-02 0015] falls asleep
+[1518-05-05 0052] falls asleep
+[1518-08-13 0026] falls asleep
+[1518-06-07 0019] wakes up
+[1518-11-23 0053] falls asleep
+[1518-05-26 0003] Guard #2251 begins shift
+[1518-09-05 0045] falls asleep
+[1518-08-27 2357] Guard #2633 begins shift
+[1518-03-14 0051] wakes up
+[1518-05-10 0002] Guard #2503 begins shift
+[1518-05-04 0048] wakes up
+[1518-04-24 0004] Guard #2027 begins shift
+[1518-03-21 0054] falls asleep
+[1518-06-17 0044] falls asleep
+[1518-06-22 0044] wakes up
+[1518-09-12 0010] falls asleep
+[1518-10-11 0002] Guard #1303 begins shift
+[1518-07-27 0034] wakes up
+[1518-11-16 2356] Guard #727 begins shift
+[1518-09-25 0039] falls asleep
+[1518-05-22 0001] falls asleep
+[1518-10-23 2359] Guard #2503 begins shift
+[1518-08-27 0058] wakes up
+[1518-10-27 0039] wakes up
+[1518-07-08 0045] wakes up
+[1518-07-03 0022] falls asleep
+[1518-08-29 0043] falls asleep
+[1518-06-02 0059] wakes up
+[1518-05-10 0057] wakes up
+[1518-04-19 0053] falls asleep
+[1518-03-12 0021] falls asleep
+[1518-09-01 0001] falls asleep
+[1518-03-10 2357] Guard #691 begins shift
+[1518-05-07 0050] falls asleep
+[1518-07-04 0002] Guard #2029 begins shift
+[1518-06-14 0057] wakes up
+[1518-10-31 2350] Guard #1987 begins shift
+[1518-03-20 0037] wakes up
+[1518-08-09 0057] wakes up
+[1518-04-21 0031] wakes up
+[1518-04-08 2354] Guard #2777 begins shift
+[1518-05-11 2359] Guard #2251 begins shift
+[1518-09-10 0058] wakes up
+[1518-10-29 0001] Guard #2393 begins shift
+[1518-04-09 0001] falls asleep
+[1518-04-02 0040] wakes up
+[1518-09-28 0004] Guard #691 begins shift
+[1518-08-08 0033] wakes up
+[1518-07-26 0000] Guard #1987 begins shift
+[1518-03-16 2357] Guard #2503 begins shift
+[1518-08-02 2356] Guard #877 begins shift
+[1518-10-09 0050] falls asleep
+[1518-09-22 0046] wakes up
+[1518-03-25 0003] falls asleep
+[1518-09-29 2357] Guard #1303 begins shift
+[1518-11-16 0033] falls asleep
+[1518-06-09 0055] wakes up
+[1518-06-05 0051] falls asleep
+[1518-10-13 2347] Guard #2777 begins shift
+[1518-06-30 0053] wakes up
+[1518-09-19 0000] Guard #461 begins shift
+[1518-06-19 0015] falls asleep
+[1518-08-29 0058] wakes up
+[1518-06-01 0055] falls asleep
+[1518-08-24 0032] falls asleep
+[1518-10-01 0024] falls asleep
+[1518-11-04 0044] falls asleep
+[1518-07-03 0055] wakes up
+[1518-09-15 0011] falls asleep
+[1518-05-04 0026] falls asleep
+[1518-09-18 0058] wakes up
+[1518-10-15 2358] Guard #2633 begins shift
+[1518-09-13 0000] Guard #691 begins shift
+[1518-09-27 0039] wakes up
+[1518-04-27 0056] wakes up
+[1518-07-02 0057] falls asleep
+[1518-04-01 0059] wakes up
+[1518-09-12 0003] Guard #1933 begins shift
+[1518-07-01 0014] wakes up
+[1518-09-21 0001] Guard #2089 begins shift
+[1518-05-06 2357] Guard #3491 begins shift
+[1518-08-04 2357] Guard #1871 begins shift
+[1518-06-10 0040] wakes up
+[1518-11-15 0059] wakes up
+[1518-07-09 0024] falls asleep
+[1518-11-08 0000] Guard #3491 begins shift
+[1518-09-30 2356] Guard #229 begins shift
+[1518-06-07 0042] falls asleep
+[1518-03-18 0051] wakes up
+[1518-10-07 2353] Guard #2503 begins shift
+[1518-07-13 0038] falls asleep
+[1518-06-13 0026] falls asleep
+[1518-05-08 0002] Guard #73 begins shift
+[1518-07-27 0057] wakes up
+[1518-04-28 0056] wakes up
+[1518-08-15 0004] Guard #1987 begins shift
+[1518-04-08 0008] wakes up
+[1518-09-22 0059] wakes up
+[1518-11-10 0040] wakes up
+[1518-06-06 0044] wakes up
+[1518-07-15 0004] Guard #1871 begins shift
+[1518-10-16 0053] wakes up
+[1518-10-06 2358] Guard #229 begins shift
+[1518-06-20 0021] falls asleep
+[1518-06-29 0057] wakes up
+[1518-09-21 0040] wakes up
+[1518-06-02 0051] falls asleep
+[1518-08-19 0008] falls asleep
+[1518-03-19 0057] wakes up
+[1518-08-18 0031] falls asleep
+[1518-10-04 2358] Guard #229 begins shift
+[1518-08-01 2350] Guard #2029 begins shift
+[1518-09-27 0007] wakes up
+[1518-04-29 0058] wakes up
+[1518-11-06 0035] wakes up
+[1518-07-24 0004] Guard #2029 begins shift
+[1518-04-01 0004] Guard #2393 begins shift
+[1518-07-30 0035] wakes up
+[1518-10-23 0051] wakes up
+[1518-08-20 2351] Guard #727 begins shift
+[1518-05-05 2356] Guard #2593 begins shift
+[1518-03-11 0048] wakes up
+[1518-07-05 0059] wakes up
+[1518-09-05 0052] wakes up
+[1518-07-17 0000] Guard #2503 begins shift
+[1518-05-06 0049] falls asleep
+[1518-05-14 0006] falls asleep
+[1518-08-09 0045] falls asleep
+[1518-10-25 0042] wakes up
+[1518-10-26 0055] falls asleep
+[1518-08-21 0027] wakes up
+[1518-04-12 0053] falls asleep
+[1518-09-10 0004] Guard #3491 begins shift
+[1518-05-24 2357] Guard #877 begins shift
+[1518-07-24 0013] falls asleep
+[1518-11-11 0050] wakes up
+[1518-11-14 0053] wakes up
+[1518-05-01 0000] Guard #2027 begins shift
+[1518-07-07 0001] Guard #3491 begins shift
+[1518-04-16 0006] falls asleep
+[1518-05-04 0058] wakes up
+[1518-06-17 0032] wakes up
+[1518-08-17 0000] Guard #2251 begins shift
+[1518-05-26 0050] falls asleep
+[1518-10-22 0059] wakes up
+[1518-06-20 0052] wakes up
+[1518-03-23 0044] falls asleep
+[1518-10-10 0048] wakes up
+[1518-05-24 0058] wakes up
+[1518-03-25 0032] wakes up
+[1518-08-26 2357] Guard #2777 begins shift
+[1518-08-13 0029] wakes up
+[1518-07-09 0050] wakes up
+[1518-04-17 0049] wakes up
+[1518-10-21 0056] wakes up
+[1518-07-19 0023] falls asleep
+[1518-11-09 2350] Guard #2633 begins shift
+[1518-03-18 0040] falls asleep
+[1518-08-16 0009] wakes up
+[1518-09-18 0025] falls asleep
+[1518-08-09 0023] falls asleep
+[1518-09-08 0057] wakes up
+[1518-06-10 0008] falls asleep
+[1518-03-28 0009] wakes up
+[1518-08-05 0012] falls asleep
+[1518-07-01 0034] falls asleep
+[1518-08-26 0004] Guard #727 begins shift
+[1518-05-04 0031] wakes up
+[1518-06-08 0024] falls asleep
+[1518-06-27 0029] falls asleep
+[1518-03-20 0057] wakes up
+[1518-03-28 0041] falls asleep
+[1518-04-18 0039] falls asleep
+[1518-03-26 0004] Guard #877 begins shift
+[1518-06-09 2356] Guard #1987 begins shift
+[1518-10-15 0000] Guard #877 begins shift
+[1518-03-31 0019] falls asleep
+[1518-04-12 0002] Guard #2251 begins shift
+[1518-11-03 0001] Guard #2027 begins shift
+[1518-07-27 0055] falls asleep
+[1518-04-17 2358] Guard #2503 begins shift
+[1518-06-08 0054] wakes up
+[1518-04-03 0043] falls asleep
+[1518-04-30 0002] falls asleep
+[1518-04-29 0001] Guard #229 begins shift
+[1518-08-04 0048] falls asleep
+[1518-09-15 0049] wakes up
+[1518-04-07 0028] falls asleep
+[1518-06-10 0059] wakes up
+[1518-06-05 2346] Guard #2423 begins shift
+[1518-08-12 0047] wakes up
+[1518-06-12 0055] falls asleep
+[1518-10-20 0001] Guard #1033 begins shift
+[1518-09-08 0048] wakes up
+[1518-04-12 0037] falls asleep
+[1518-07-07 0024] falls asleep
+[1518-07-12 0052] wakes up
+[1518-03-13 0057] wakes up
+[1518-05-02 0052] wakes up
+[1518-06-05 0005] falls asleep
+[1518-06-03 0041] wakes up
+[1518-04-30 0043] wakes up
+[1518-07-20 2356] Guard #2633 begins shift
+[1518-07-22 0055] wakes up
+[1518-03-26 0054] falls asleep
+[1518-10-17 0022] wakes up
+[1518-10-02 0023] falls asleep
+[1518-11-13 2356] Guard #73 begins shift
+[1518-07-01 2356] Guard #2503 begins shift
+[1518-04-07 0056] wakes up
+[1518-03-16 0004] Guard #2503 begins shift
+[1518-04-12 0041] wakes up
+[1518-04-15 2357] Guard #229 begins shift
+[1518-09-29 0055] wakes up
+[1518-10-18 0033] wakes up
+[1518-05-27 0002] Guard #2503 begins shift
+[1518-05-21 0040] wakes up
+[1518-08-06 0042] falls asleep
+[1518-07-01 0009] falls asleep
+[1518-11-01 0000] falls asleep
+[1518-04-19 0055] wakes up
+[1518-03-17 0050] falls asleep
+[1518-05-06 0053] wakes up
+[1518-10-13 0003] Guard #2029 begins shift
+[1518-08-06 0034] wakes up
+[1518-05-22 0053] wakes up
+[1518-08-26 0038] wakes up
+[1518-10-12 0038] wakes up
+[1518-05-28 0015] falls asleep
+[1518-08-22 2349] Guard #727 begins shift
+[1518-11-18 2357] Guard #461 begins shift
+[1518-09-23 0049] falls asleep
+[1518-09-06 0038] falls asleep
+[1518-06-13 0057] wakes up
+[1518-11-05 2358] Guard #1987 begins shift
+[1518-03-09 2346] Guard #727 begins shift
+[1518-07-06 0043] falls asleep
+[1518-06-28 0003] Guard #1033 begins shift
+[1518-03-30 0034] falls asleep
+[1518-10-14 0002] wakes up
+[1518-07-22 0001] falls asleep
+[1518-05-13 0000] Guard #1933 begins shift
+[1518-10-16 2356] Guard #2251 begins shift
+[1518-07-20 0046] wakes up
+[1518-03-12 2356] Guard #3491 begins shift
+[1518-03-20 0007] falls asleep
+[1518-08-25 0044] wakes up
+[1518-07-23 0003] Guard #2251 begins shift
+[1518-06-04 0020] falls asleep
+[1518-10-22 0008] falls asleep
+[1518-05-25 0054] falls asleep
+[1518-11-20 0054] wakes up
+[1518-07-20 0052] falls asleep
+[1518-10-15 0034] falls asleep
+[1518-06-29 0010] falls asleep
+[1518-07-28 0045] wakes up
+[1518-06-26 0002] Guard #2777 begins shift
+[1518-08-06 0054] falls asleep
+[1518-05-24 0039] falls asleep
+[1518-04-25 2358] Guard #1033 begins shift
+[1518-08-04 0031] wakes up
+[1518-11-08 0036] wakes up
+[1518-06-04 2353] Guard #73 begins shift
+[1518-05-12 0040] wakes up
+[1518-10-15 0047] wakes up
+[1518-09-24 0015] falls asleep
+[1518-10-04 0028] falls asleep
+[1518-06-14 0001] Guard #2423 begins shift
+[1518-08-07 0004] falls asleep
+[1518-10-21 0004] Guard #2251 begins shift
+[1518-11-14 0047] falls asleep
+[1518-06-12 0048] falls asleep
+[1518-07-13 0033] wakes up
+[1518-11-05 0057] wakes up
+[1518-08-09 2356] Guard #1217 begins shift
+[1518-09-18 0041] falls asleep
+[1518-08-14 0055] wakes up
+[1518-04-24 0023] falls asleep
+[1518-08-31 0052] wakes up
+[1518-08-29 0035] wakes up
+[1518-10-05 0051] wakes up
+[1518-08-05 2349] Guard #2029 begins shift
+[1518-09-26 0025] falls asleep
+[1518-05-16 0057] falls asleep
+[1518-10-22 0039] falls asleep
+[1518-09-02 0056] wakes up
+[1518-09-10 0025] falls asleep
+[1518-03-15 0033] wakes up
+[1518-11-18 0045] falls asleep
+[1518-07-20 0057] wakes up
+[1518-09-28 0059] wakes up
+[1518-03-23 0041] wakes up
+[1518-06-20 0002] Guard #877 begins shift
+[1518-11-06 0038] falls asleep
+[1518-11-02 0033] wakes up
+[1518-10-14 0001] falls asleep
+[1518-06-08 0001] Guard #2027 begins shift
+[1518-08-19 2358] Guard #2027 begins shift
+[1518-08-29 0000] Guard #1871 begins shift
+[1518-05-29 0046] wakes up
+[1518-04-19 0033] falls asleep
+[1518-08-19 0003] Guard #2027 begins shift
+[1518-04-16 0019] wakes up
+[1518-10-08 0059] wakes up
+[1518-04-02 2357] Guard #2029 begins shift
+[1518-06-04 0030] wakes up
+[1518-08-08 0017] falls asleep
+[1518-10-09 0036] falls asleep
+[1518-09-28 0036] wakes up
+[1518-09-27 0037] falls asleep
+[1518-04-18 0007] falls asleep
+[1518-07-11 0055] wakes up
+[1518-11-09 0053] falls asleep
+[1518-08-03 2356] Guard #2089 begins shift
+[1518-11-17 0026] falls asleep
+[1518-04-17 0029] falls asleep
+[1518-03-13 2359] Guard #1871 begins shift
+[1518-11-18 0027] falls asleep
+[1518-06-03 2359] Guard #2027 begins shift
+[1518-06-02 2356] Guard #1987 begins shift
+[1518-07-20 0033] falls asleep
+[1518-06-13 0031] wakes up
+[1518-05-16 0044] falls asleep
+[1518-07-08 0020] falls asleep
+[1518-07-06 0047] wakes up
+[1518-09-23 2356] Guard #2633 begins shift
+[1518-03-18 0010] wakes up
+[1518-05-25 0046] falls asleep
+[1518-04-19 2352] Guard #2251 begins shift
+[1518-05-15 2356] Guard #2027 begins shift
+[1518-06-01 0021] falls asleep
+[1518-05-04 0053] falls asleep
+[1518-08-07 2356] Guard #1217 begins shift
+[1518-06-22 2356] Guard #2593 begins shift
+[1518-06-07 0058] wakes up
+[1518-10-05 0023] falls asleep
+[1518-08-20 0041] falls asleep
+[1518-10-08 0003] falls asleep
+[1518-05-15 0000] Guard #3491 begins shift
+[1518-06-21 0037] falls asleep
+[1518-05-24 0003] falls asleep
+[1518-07-26 2358] Guard #2633 begins shift
+[1518-06-22 0002] Guard #1987 begins shift
+[1518-08-10 2359] Guard #3491 begins shift
+[1518-11-16 0000] Guard #2027 begins shift
+[1518-05-20 2359] Guard #3491 begins shift
+[1518-03-14 0041] falls asleep
+[1518-09-23 0050] wakes up
+[1518-07-19 0000] Guard #2089 begins shift
+[1518-03-19 0027] falls asleep
+[1518-05-05 0054] wakes up
+[1518-10-07 0052] wakes up
+[1518-04-23 0056] wakes up
+[1518-09-04 0042] falls asleep
+[1518-08-26 0045] wakes up
+[1518-10-18 0004] Guard #2393 begins shift
+[1518-04-10 0052] falls asleep
+[1518-10-11 2353] Guard #73 begins shift
+[1518-08-28 0030] falls asleep
+[1518-06-30 0056] falls asleep
+[1518-10-13 0053] falls asleep
+[1518-08-23 0003] falls asleep
+[1518-04-27 2346] Guard #2089 begins shift
+[1518-05-30 2356] Guard #2593 begins shift
+[1518-10-31 0059] wakes up
+[1518-07-21 0049] wakes up
+[1518-06-29 0044] falls asleep
+[1518-11-18 0058] wakes up
+[1518-06-01 0037] wakes up
+[1518-10-10 0022] falls asleep
+[1518-07-04 2358] Guard #2503 begins shift
+[1518-08-06 0051] wakes up
+[1518-05-11 0053] wakes up
+[1518-08-18 0051] wakes up
+[1518-05-19 0056] wakes up
+[1518-08-02 0046] wakes up
+[1518-10-08 0045] falls asleep
+[1518-07-17 0032] wakes up
+[1518-09-13 0054] falls asleep
+[1518-11-22 0003] Guard #2029 begins shift
+[1518-07-11 2350] Guard #691 begins shift
+[1518-10-17 0054] falls asleep
+[1518-11-15 0004] Guard #2593 begins shift
+[1518-08-22 0013] falls asleep
+[1518-08-12 0002] falls asleep
+[1518-10-31 0005] falls asleep
+[1518-04-15 0039] wakes up
+[1518-08-01 0045] wakes up
+[1518-09-14 0055] wakes up
+[1518-09-08 0007] falls asleep
+[1518-08-30 0038] falls asleep
+[1518-05-19 0035] falls asleep
+[1518-04-19 0000] Guard #2503 begins shift
+[1518-07-14 0040] falls asleep
+[1518-04-10 0058] wakes up
+[1518-03-18 2358] Guard #3491 begins shift
+[1518-05-17 0027] falls asleep
+[1518-08-31 0027] falls asleep
+[1518-03-29 2358] Guard #1987 begins shift
+[1518-08-03 0049] falls asleep
+[1518-08-26 0058] wakes up
+[1518-04-01 0009] falls asleep
+[1518-05-12 0057] wakes up
+[1518-10-19 0052] wakes up
+[1518-06-06 0002] falls asleep
+[1518-09-16 2348] Guard #3491 begins shift
+[1518-10-29 0022] falls asleep
+[1518-03-30 0051] falls asleep
+[1518-11-02 0018] falls asleep
+[1518-07-20 0013] falls asleep
+[1518-05-25 0050] wakes up
+[1518-08-17 0055] wakes up
+[1518-11-08 0052] falls asleep
+[1518-06-24 2358] Guard #2251 begins shift
+[1518-07-02 0059] wakes up
+[1518-04-20 0020] wakes up
+[1518-06-07 0000] Guard #727 begins shift
+[1518-09-28 0029] falls asleep
+[1518-11-05 0056] falls asleep
+[1518-10-21 0052] falls asleep
+[1518-04-05 0008] wakes up
+[1518-06-13 0052] falls asleep
+[1518-03-29 0004] falls asleep
+[1518-11-11 0012] falls asleep
+[1518-06-29 2357] Guard #1987 begins shift
+[1518-06-26 0043] wakes up
+[1518-11-16 0043] wakes up
+[1518-07-23 0006] falls asleep
+[1518-05-30 0049] wakes up
+[1518-04-03 0058] wakes up
+[1518-04-09 0023] wakes up
+[1518-11-01 0045] wakes up
+[1518-10-29 0056] wakes up
+[1518-03-24 0007] falls asleep
+[1518-09-12 0051] wakes up
+[1518-09-10 0057] falls asleep
+[1518-11-10 0000] falls asleep
+[1518-06-12 0059] wakes up
+[1518-05-27 0034] wakes up
+[1518-08-28 0035] wakes up
+[1518-11-11 0004] Guard #2633 begins shift
+[1518-04-26 2357] Guard #2633 begins shift
+[1518-11-22 0040] wakes up
+[1518-03-21 0058] wakes up
+[1518-09-18 0038] wakes up
+[1518-06-01 0051] wakes up
+[1518-09-13 0055] wakes up
+[1518-04-06 0027] falls asleep
+[1518-06-26 0057] falls asleep
+[1518-03-21 0051] wakes up
+[1518-06-12 0049] wakes up
+[1518-09-16 0021] falls asleep
+[1518-04-11 0032] wakes up
+[1518-06-19 0000] Guard #2027 begins shift
+[1518-07-02 0007] falls asleep
+[1518-09-21 0007] falls asleep
+[1518-05-01 0035] falls asleep
+[1518-04-11 0038] falls asleep
+[1518-04-07 0045] falls asleep
+[1518-07-10 0003] falls asleep
+[1518-04-19 0043] wakes up
+[1518-07-05 0016] falls asleep
+[1518-03-23 2357] Guard #1933 begins shift
+[1518-06-29 0026] wakes up
+[1518-08-01 0010] falls asleep
+[1518-09-23 0000] Guard #3491 begins shift
+[1518-06-25 0056] wakes up
+[1518-10-23 0004] Guard #229 begins shift
+[1518-03-14 0015] wakes up
+[1518-09-04 0001] Guard #2777 begins shift
+[1518-10-04 0003] Guard #2029 begins shift
+[1518-03-10 0058] wakes up
+[1518-05-13 0020] falls asleep
+[1518-11-22 0029] falls asleep
+[1518-04-13 0058] wakes up
+[1518-03-31 0021] wakes up
+[1518-10-14 0057] wakes up
+[1518-05-22 0037] falls asleep
+[1518-03-26 0059] wakes up
+[1518-04-12 2359] Guard #2393 begins shift
+[1518-06-18 0046] wakes up
+[1518-03-24 2352] Guard #2089 begins shift
+[1518-08-28 0053] wakes up
+[1518-06-01 0058] wakes up
+[1518-10-31 0041] falls asleep
+[1518-09-17 0037] wakes up
+[1518-09-04 0056] wakes up
+[1518-09-22 0029] falls asleep
+[1518-05-30 0007] falls asleep
+[1518-03-14 0058] wakes up
+[1518-08-17 0050] falls asleep
+[1518-09-14 0000] Guard #691 begins shift
+[1518-08-05 0047] falls asleep
+[1518-10-26 0057] wakes up
+[1518-07-24 2357] Guard #461 begins shift
+[1518-09-04 2358] Guard #73 begins shift
+[1518-05-29 0000] Guard #2423 begins shift
+[1518-11-04 0046] wakes up
+[1518-04-01 0035] wakes up
+[1518-06-17 0051] wakes up
+[1518-06-05 0054] wakes up
+[1518-07-28 0004] Guard #2393 begins shift
+[1518-07-07 0054] wakes up
+[1518-10-03 0050] falls asleep
+[1518-09-10 0045] wakes up
+[1518-03-19 0031] wakes up
+[1518-05-26 0053] wakes up
+[1518-03-30 0035] wakes up
+[1518-09-08 0042] falls asleep
+[1518-08-03 0015] falls asleep
+[1518-06-01 0029] wakes up
+[1518-11-19 2350] Guard #1987 begins shift
+[1518-04-03 0040] wakes up
+[1518-03-24 0024] wakes up
+[1518-10-25 0003] Guard #2027 begins shift
+[1518-08-24 0016] falls asleep
+[1518-11-12 0057] wakes up
+[1518-06-08 2358] Guard #1987 begins shift
+[1518-04-10 2357] Guard #1933 begins shift
+[1518-03-17 0036] falls asleep
+[1518-07-10 0050] wakes up
+[1518-04-15 0033] falls asleep
+[1518-08-29 0032] falls asleep
+[1518-04-10 0053] wakes up
+[1518-06-23 0016] falls asleep
+[1518-09-07 0034] falls asleep
+[1518-09-21 0057] wakes up
+[1518-10-29 2356] Guard #2029 begins shift
+[1518-06-09 0026] falls asleep
+[1518-04-02 0044] falls asleep
+[1518-08-06 2353] Guard #2633 begins shift
+[1518-04-28 0004] falls asleep
+[1518-07-11 0000] Guard #2633 begins shift
+[1518-10-04 0058] wakes up
+[1518-08-22 0037] wakes up
+[1518-05-05 0004] Guard #727 begins shift
+[1518-04-22 2357] Guard #1217 begins shift
+[1518-04-02 0019] wakes up
+[1518-09-15 2356] Guard #2027 begins shift
+[1518-07-26 0023] falls asleep
+[1518-03-16 0048] wakes up
+[1518-04-02 0000] Guard #229 begins shift
+[1518-10-02 0032] wakes up
+[1518-04-03 0047] wakes up
+[1518-03-17 0047] wakes up
+[1518-08-15 2346] Guard #877 begins shift
+[1518-07-31 0058] wakes up
+[1518-09-23 0040] falls asleep
+[1518-11-21 0043] falls asleep
+[1518-04-14 0004] Guard #1033 begins shift
+[1518-10-13 0055] wakes up
+[1518-05-23 0059] wakes up
+[1518-04-21 0002] Guard #727 begins shift
+[1518-09-26 0004] Guard #2633 begins shift
+[1518-04-02 0052] wakes up
+[1518-04-13 0046] falls asleep
+[1518-08-19 0051] wakes up
+[1518-05-24 0018] wakes up
+[1518-05-16 0010] falls asleep
+[1518-07-29 0037] falls asleep
+[1518-04-01 0056] falls asleep
+[1518-11-04 2357] Guard #2251 begins shift
+[1518-07-06 0037] wakes up
+[1518-06-14 2356] Guard #2593 begins shift
+[1518-08-11 0049] wakes up
+[1518-09-26 0056] wakes up
+[1518-04-13 0057] falls asleep
+[1518-07-17 0055] wakes up
+[1518-08-08 2358] Guard #2251 begins shift
+[1518-08-23 2358] Guard #1933 begins shift
+[1518-03-17 2352] Guard #2029 begins shift
+[1518-07-20 0017] wakes up
+[1518-09-29 0037] falls asleep
+[1518-08-10 0018] falls asleep
+[1518-09-19 2351] Guard #2089 begins shift
+[1518-05-11 0003] Guard #1933 begins shift
+[1518-09-08 2359] Guard #2251 begins shift
+[1518-08-03 0033] wakes up
+[1518-05-11 0015] falls asleep
+[1518-10-28 0040] falls asleep
+[1518-11-03 2357] Guard #2027 begins shift
+[1518-06-15 0055] wakes up
